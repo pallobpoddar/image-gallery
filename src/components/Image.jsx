@@ -3,6 +3,7 @@ import Card from "@mui/material/Card";
 import CardMedia from "@mui/material/CardMedia";
 import Checkbox from "@mui/material/Checkbox";
 import { useDrag, useDrop } from "react-dnd";
+import "../App.scss";
 
 const ItemType = "IMAGE";
 
@@ -34,14 +35,27 @@ const Image = ({
 	return (
 		<Card
 			ref={(node) => ref(drop(node))}
-			style={{ marginBottom: 10, position: "relative" }}
+			className="card"
+			style={{ position: "relative" }}
 			onMouseEnter={() => setShowCheckbox(true)}
 			onMouseLeave={() => {
 				if (!isChecked) {
 					setShowCheckbox(false);
 				}
 			}}
-		>
+			sx={{
+				border: "1px solid #d1cdcd",
+				"&:hover": {
+					cursor: "pointer",
+				},
+			}}>
+			<CardMedia
+				component="img"
+				image={image.src}
+				alt={image.title}
+			/>
+			<div className="card-media-overlay" />
+
 			{showCheckbox && (
 				<Checkbox
 					style={{
@@ -54,12 +68,6 @@ const Image = ({
 					onChange={() => toggleImageCheckbox(index)}
 				/>
 			)}
-			<CardMedia
-				component="img"
-				image={image.src}
-				alt={image.title}
-				height="140"
-			/>
 		</Card>
 	);
 };
