@@ -1,57 +1,57 @@
 [
-	{
-		"id": 1,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162143&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Blue headphone"
-	},
-	{
-		"id": 2,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162144&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Green headphone"
-	},
-	{
-		"id": 3,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162147&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Red-violate headphone"
-	},
-	{
-		"id": 4,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162145&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Maroon headphone"
-	},
-	{
-		"id": 5,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162146&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Yellow headphone"
-	},
-	{
-		"id": 6,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162148&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Gray headphone"
-	},
-	{
-		"id": 7,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162149&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Black smart watch"
-	},
-	{
-		"id": 8,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162150&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Orange smart watch"
-	},
-	{
-		"id": 9,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162151&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Iceberg-blue smart watch"
-	},
-	{
-		"id": 10,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162152&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Bicycle in front of a red-brick house"
-	},
-	{
-		"id": 11,
-		"src": "https://onedrive.live.com/?cid=B5822942EDA3046F&id=B5822942EDA3046F%21162153&parId=B5822942EDA3046F%21146260&o=OneUp",
-		"title": "Yellow telephone"
-	}
+  {
+    "id": 1,
+    "src": "src\\assets\\image-1.webp",
+    "title": "Blue headphone"
+  },
+  {
+    "id": 2,
+    "src": "src\\assets\\image-2.webp",
+    "title": "Green headphone"
+  },
+  {
+    "id": 3,
+    "src": "src\\assets\\image-3.webp",
+    "title": "Red-violate headphone"
+  },
+  {
+    "id": 4 ,
+    "src": "src\\assets\\image-4.webp",
+    "title": "Maroon headphone"
+  },
+  {
+    "id": 5,
+    "src": "src\\assets\\image-5.webp",
+    "title": "Yellow headphone"
+  },
+  {
+    "id": 6,
+    "src": "src\\assets\\image-6.webp",
+    "title": "Gray headphone"
+  },
+  {
+    "id": 7,
+    "src": "src\\assets\\image-7.webp",
+    "title": "Black smart watch"
+  },
+  {
+    "id": 8,
+    "src": "src\\assets\\image-8.webp",
+    "title": "Orange smart watch"
+  },
+  {
+    "id": 9,
+    "src": "src\\assets\\image-9.webp",
+    "title": "Iceberg-blue smart watch"
+  },
+  {
+    "id": 10,
+    "src": "src\\assets\\image-10.jpeg",
+    "title": "Bicycle in front of a red-brick house"
+  },
+  {
+    "id": 11,
+    "src": "src\\assets\\image-11.jpeg",
+    "title": "Yellow telephone"
+  }
 ]
