@@ -1,57 +1,57 @@
 [
   {
     "id": 1,
-    "src": "src/assets/image-1.webp",
+    "src": "/src/assets/image-1.webp",
     "title": "Blue headphone"
   },
   {
     "id": 2,
-    "src": "src/assets/image-2.webp",
+    "src": "/src/assets/image-2.webp",
     "title": "Green headphone"
   },
   {
     "id": 3,
-    "src": "src/assets/image-3.webp",
+    "src": "/src/assets/image-3.webp",
     "title": "Red-violate headphone"
   },
   {
     "id": 4 ,
-    "src": "src/assets/image-4.webp",
+    "src": "/src/assets/image-4.webp",
     "title": "Maroon headphone"
   },
   {
     "id": 5,
-    "src": "src/assets/image-5.webp",
+    "src": "/src/assets/image-5.webp",
     "title": "Yellow headphone"
   },
   {
     "id": 6,
-    "src": "src/assets/image-6.webp",
+    "src": "/src/assets/image-6.webp",
     "title": "Gray headphone"
   },
   {
     "id": 7,
-    "src": "src/assets/image-7.webp",
+    "src": "/src/assets/image-7.webp",
     "title": "Black smart watch"
   },
   {
     "id": 8,
-    "src": "src/assets/image-8.webp",
+    "src": "/src/assets/image-8.webp",
     "title": "Orange smart watch"
   },
   {
     "id": 9,
-    "src": "src/assets/image-9.webp",
+    "src": "/src/assets/image-9.webp",
     "title": "Iceberg-blue smart watch"
   },
   {
     "id": 10,
-    "src": "src/assets/image-10.jpeg",
+    "src": "/src/assets/image-10.jpeg",
     "title": "Bicycle in front of a red-brick house"
   },
   {
     "id": 11,
-    "src": "src/assets/image-11.jpeg",
+    "src": "/src/assets/image-11.jpeg",
     "title": "Yellow telephone"
   }
 ]
