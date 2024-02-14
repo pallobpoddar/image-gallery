@@ -10,7 +10,7 @@ import Card from "@mui/material/Card";
 import CardMedia from "@mui/material/CardMedia";
 import ImageOutlinedIcon from "@mui/icons-material/ImageOutlined";
 import Image from "./Image";
-import products from "../assets/products.json";
+import products from "../../public/assets/products.json";
 import "../App.scss";
 
 const Gallery = () => {
